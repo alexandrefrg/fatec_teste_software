@@ -4,6 +4,9 @@
 ### Java ###
 # Compiled class file
 *.class
+*.classpath
+*.project
+*.settings/
 
 # Log file
 *.log
@@ -23,6 +26,7 @@
 *.tar.gz
 *.rar
 
+# Local Driver for JUnit
 browserDriver/
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
